@@ -45,5 +45,5 @@ This file contains the `run()` function, which takes a `playlist_url`, `API_KEY`
 
 ```python
 from main import run
-
-Refer to the [YouTube Data API v3](https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html) for more information
+```
+Refer to the [YouTube Data API v3](https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html) for more information. 
