@@ -23,7 +23,7 @@ This file contains the `get_playlistItems_url()` function, which takes a `playli
 
 ```python
 from playlistItems import get_playlistItems_url
-video_urls = get_playlistItems_url(playlist_url='https://www.youtube.com/playlist?list=PL78sHffDjI75uMmHCqx
+video_urls = get_playlistItems_url(playlist_url='your_playlist_url_here')
 ```
 ### 3. download.py
 
